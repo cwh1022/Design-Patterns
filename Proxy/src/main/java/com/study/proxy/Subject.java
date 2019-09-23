@@ -6,4 +6,5 @@ package com.study.proxy;
  * @author connor.chen
  */
 public abstract class Subject {
+    public abstract void request();
 }
