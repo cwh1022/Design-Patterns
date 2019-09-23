@@ -1,0 +1,15 @@
+package com.study.strategy;
+
+/**
+ * Created on 2019/9/23
+ *
+ * @author connor.chen
+ */
+/**
+ * 封装了具体的算法或行为，继承于Strategy
+ */
+public class ConcreteStrategyC extends Strategy {
+    public void AlgorithmInterface() {
+        System.out.println("算法C实现");
+    }
+}
