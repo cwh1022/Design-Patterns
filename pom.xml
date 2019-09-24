@@ -11,6 +11,7 @@
         <module>Strategy</module>
         <module>Decorator</module>
         <module>Proxy</module>
+        <module>FactoryMethod</module>
     </modules>
     <packaging>pom</packaging>
 
