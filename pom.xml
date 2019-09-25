@@ -12,6 +12,7 @@
         <module>Decorator</module>
         <module>Proxy</module>
         <module>FactoryMethod</module>
+        <module>TempleteMethod</module>
     </modules>
     <packaging>pom</packaging>
 
