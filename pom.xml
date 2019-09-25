@@ -13,6 +13,7 @@
         <module>Proxy</module>
         <module>FactoryMethod</module>
         <module>TempleteMethod</module>
+        <module>Facade</module>
     </modules>
     <packaging>pom</packaging>
 
