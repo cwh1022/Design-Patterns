@@ -15,6 +15,7 @@
         <module>TempleteMethod</module>
         <module>Facade</module>
         <module>Builder</module>
+        <module>Observer</module>
     </modules>
     <packaging>pom</packaging>
 
