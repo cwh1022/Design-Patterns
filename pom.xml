@@ -16,6 +16,7 @@
         <module>Facade</module>
         <module>Builder</module>
         <module>Observer</module>
+        <module>State</module>
     </modules>
     <packaging>pom</packaging>
 
