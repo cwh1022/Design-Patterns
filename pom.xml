@@ -17,6 +17,7 @@
         <module>Builder</module>
         <module>Observer</module>
         <module>State</module>
+        <module>Adapter</module>
     </modules>
     <packaging>pom</packaging>
 
