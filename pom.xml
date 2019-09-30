@@ -19,6 +19,7 @@
         <module>State</module>
         <module>Adapter</module>
         <module>Memento</module>
+        <module>Composite</module>
     </modules>
     <packaging>pom</packaging>
 
