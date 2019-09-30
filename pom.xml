@@ -18,6 +18,7 @@
         <module>Observer</module>
         <module>State</module>
         <module>Adapter</module>
+        <module>Memento</module>
     </modules>
     <packaging>pom</packaging>
 
