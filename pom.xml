@@ -20,6 +20,8 @@
         <module>Adapter</module>
         <module>Memento</module>
         <module>Composite</module>
+        <module>Iterator</module>
+        <module>Singleton</module>
     </modules>
     <packaging>pom</packaging>
 
