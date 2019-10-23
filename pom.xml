@@ -22,6 +22,7 @@
         <module>Composite</module>
         <module>Singleton</module>
         <module>Bridge</module>
+        <module>Command</module>
     </modules>
     <packaging>pom</packaging>
 
