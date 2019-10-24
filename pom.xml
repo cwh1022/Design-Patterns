@@ -23,6 +23,7 @@
         <module>Singleton</module>
         <module>Bridge</module>
         <module>Command</module>
+        <module>ChainOfResponseibility</module>
     </modules>
     <packaging>pom</packaging>
 
