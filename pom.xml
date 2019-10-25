@@ -24,6 +24,7 @@
         <module>Bridge</module>
         <module>Command</module>
         <module>ChainOfResponseibility</module>
+        <module>Mediator</module>
     </modules>
     <packaging>pom</packaging>
 
