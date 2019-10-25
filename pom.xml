@@ -25,6 +25,7 @@
         <module>Command</module>
         <module>ChainOfResponseibility</module>
         <module>Mediator</module>
+        <module>Flyweight</module>
     </modules>
     <packaging>pom</packaging>
 
