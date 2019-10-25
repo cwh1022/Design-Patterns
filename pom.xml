@@ -27,6 +27,7 @@
         <module>Mediator</module>
         <module>Flyweight</module>
         <module>Interpreter</module>
+        <module>Visitor</module>
     </modules>
     <packaging>pom</packaging>
 
