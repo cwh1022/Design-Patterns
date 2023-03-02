@@ -7,7 +7,7 @@ package com.study.ChainOfResponseibility;
  */
 public class ChainOfResponseibilityMain {
     public static void main(String[] args) {
-        Handler h1 = new ConcreteHandler();
+        Handler h1 = new ConcreteHandler1();
         Handler h2 = new ConcreteHandler2();
         Handler h3 = new ConcreteHandler3();
         h1.setSuccessor(h2);
